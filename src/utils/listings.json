@@ -1,0 +1,1002 @@
+[
+  {
+    "lat": 47.660275,
+    "lng": -122.345951,
+    "address": "4325 Whitman Ave Unit # B, Seattle, WA 98103"
+  },
+  {
+    "lat": 47.639184,
+    "lng": -122.371329,
+    "address": "2216 11th Ave, Seattle, WA 98119"
+  },
+  {
+    "lat": 47.700314,
+    "lng": -122.357124,
+    "address": "9719 Palngine Ave, Seattle, WA 98103"
+  },
+  {
+    "lat": 47.629135,
+    "lng": -122.367943,
+    "address": "1113 8th Ave, Seattle, WA 98119"
+  },
+  {
+    "lat": 47.552097,
+    "lng": -122.37632,
+    "address": "5456 35th Ave, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.567872,
+    "lng": -122.314082,
+    "address": "4010 14th Ave Unit # B, Seattle, WA 98108"
+  },
+  {
+    "lat": 47.670406,
+    "lng": -122.381653,
+    "address": "1762 NW 57th St Unit # 304, Seattle, WA 98107"
+  },
+  {
+    "lat": 47.539413,
+    "lng": -122.378365,
+    "address": "3603 SW Myrtle St, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.615432,
+    "lng": -122.348617,
+    "address": "121 Vine St Unit # 1105, Seattle, WA 98121"
+  },
+  {
+    "lat": 47.774658,
+    "lng": -122.303825,
+    "address": "20022 24th Ave, Seattle, WA 98155"
+  },
+  {
+    "lat": 47.672176,
+    "lng": -122.40416,
+    "address": "3611 NW 60th St, Seattle, WA 98107"
+  },
+  {
+    "lat": 47.676365,
+    "lng": -122.29172,
+    "address": "B, 6546 32nd Ave Unit # 2.2, Seattle, WA 98115"
+  },
+  {
+    "lat": 47.540005,
+    "lng": -122.363297,
+    "address": "6935 24th Ave, Seattle, WA 98106"
+  },
+  {
+    "lat": 47.663925,
+    "lng": -122.278366,
+    "address": "4728 46th Ave, Seattle, WA 98105"
+  },
+  {
+    "lat": 47.55653,
+    "lng": -122.271896,
+    "address": "5015 49th Ave, Seattle, WA 98118"
+  },
+  {
+    "lat": 47.720291,
+    "lng": -122.320534,
+    "address": "12532 8th Ave, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.635929,
+    "lng": -122.320648,
+    "address": "907 E Howe St, Seattle, WA 98102"
+  },
+  {
+    "lat": 47.641209,
+    "lng": -122.407143,
+    "address": "2482 Westmont Wy, Seattle, WA 98199"
+  },
+  {
+    "lat": 47.53524,
+    "lng": -122.292976,
+    "address": "2950 S Webster St, Seattle, WA 98108"
+  },
+  {
+    "lat": 47.722076,
+    "lng": -122.340202,
+    "address": "1446 N 128th St, Seattle, WA 98133"
+  },
+  {
+    "lat": 47.632739,
+    "lng": -122.343025,
+    "address": "1504 Aurora Ave Unit # 507, Seattle, WA 98109"
+  },
+  {
+    "lat": 47.719698,
+    "lng": -122.365412,
+    "address": "720 NW 125th, Seattle, WA 98177"
+  },
+  {
+    "lat": 47.498067,
+    "lng": -122.297636,
+    "address": "11642 26th Ave, Seattle, WA 98168"
+  },
+  {
+    "lat": 47.58416,
+    "lng": -122.386858,
+    "address": "4304 SW Walker St, Seattle, WA 98116"
+  },
+  {
+    "lat": 47.584147,
+    "lng": -122.38683,
+    "address": "4306 SW Walker St, Seattle, WA 98116"
+  },
+  {
+    "lat": 47.546547,
+    "lng": -122.279419,
+    "address": "4231 S Bateman St, Seattle, WA 98118"
+  },
+  {
+    "lat": 47.536491,
+    "lng": -122.379044,
+    "address": "3613 SW Othello St, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.607571,
+    "lng": -122.294914,
+    "address": "546 29th Ave, Seattle, WA 98122"
+  },
+  {
+    "lat": 47.560513,
+    "lng": -122.403503,
+    "address": "4710 SW Beach Dr, Seattle, WA 98116"
+  },
+  {
+    "lat": 47.588662,
+    "lng": -122.310222,
+    "address": "1546 17th Ave Unit # 3, Seattle, WA 98144"
+  },
+  {
+    "lat": 47.723495,
+    "lng": -122.358512,
+    "address": "102 NW 130th St, Seattle, WA 98177"
+  },
+  {
+    "lat": 47.537857,
+    "lng": -122.392685,
+    "address": "4615 SW Othello St, Seattle, WA 98136"
+  },
+  {
+    "lat": 47.690212,
+    "lng": -122.295052,
+    "address": "3026 NE 85th St, Seattle, WA 98115"
+  },
+  {
+    "lat": 47.546927,
+    "lng": -122.37077,
+    "address": "6309 30th Ave, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.539987,
+    "lng": -122.368613,
+    "address": "2716 SW Sylvan Heights Dr, Seattle, WA 98106"
+  },
+  {
+    "lat": 47.700222,
+    "lng": -122.295479,
+    "address": "3014 NE 98th St, Seattle, WA 98115"
+  },
+  {
+    "lat": 47.611406,
+    "lng": -122.3438,
+    "address": "2033 1st Ave Unit # 3, Seattle, WA 98121"
+  },
+  {
+    "lat": 47.543392,
+    "lng": -122.28389,
+    "address": "6512 Martin Luther King Jr. Wy, Seattle, WA 98118"
+  },
+  {
+    "lat": 47.681407,
+    "lng": -122.296206,
+    "address": "7242 29th Ave, Seattle, WA 98115"
+  },
+  {
+    "lat": 47.703403,
+    "lng": -122.349846,
+    "address": "701 N 103rd St, Seattle, WA 98133"
+  },
+  {
+    "lat": 47.6591,
+    "lng": -122.34671,
+    "address": "4262 Winslow, Seattle, WA 98103"
+  },
+  {
+    "lat": 47.553952,
+    "lng": -122.289717,
+    "address": "5305 Martin Luther King Jr Wy, Seattle, WA 98118"
+  },
+  {
+    "lat": 47.64703,
+    "lng": -122.326728,
+    "address": "2821 Fairview Ave Unit # 12, Seattle, WA 98102"
+  },
+  {
+    "lat": 47.528542,
+    "lng": -122.377686,
+    "address": "3522 SW Thistle St, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.656178,
+    "lng": -122.392616,
+    "address": "4007 Williams Ave, Seattle, WA 98199"
+  },
+  {
+    "lat": 47.548325,
+    "lng": -122.374176,
+    "address": "3235 SW Raymond St, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.528999,
+    "lng": -122.265516,
+    "address": "8317 54th Ave, Seattle, WA 98118"
+  },
+  {
+    "lat": 47.523193,
+    "lng": -122.381104,
+    "address": "8853 38th Ave, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.70771,
+    "lng": -122.341789,
+    "address": "10728 Stone Ave, Seattle, WA 98133"
+  },
+  {
+    "lat": 47.54118,
+    "lng": -122.289788,
+    "address": "6803 Holly Park Dr Unit # A-1, Seattle, WA 98118"
+  },
+  {
+    "lat": 47.592941,
+    "lng": -122.390373,
+    "address": "1300 Alki Ave Unit # 202, Seattle, WA 98116"
+  },
+  {
+    "lat": 47.68486,
+    "lng": -122.375671,
+    "address": "1471 NW 77th St, Seattle, WA 98117"
+  },
+  {
+    "lat": 47.707455,
+    "lng": -122.283178,
+    "address": "4036 NE 109th St, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.633877,
+    "lng": -122.319054,
+    "address": "1625 Federal Ave, Seattle, WA 98102"
+  },
+  {
+    "lat": 47.601235,
+    "lng": -122.291325,
+    "address": "112 32 Ave, Seattle, WA 98144"
+  },
+  {
+    "lat": 47.548325,
+    "lng": -122.373863,
+    "address": "3211 SW Raymond St, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.597485,
+    "lng": -122.309875,
+    "address": "1639 S Weller St, Seattle, WA 98144"
+  },
+  {
+    "lat": 47.688236,
+    "lng": -122.385422,
+    "address": "8048 23rd Ave, Seattle, WA 98117"
+  },
+  {
+    "lat": 47.596252,
+    "lng": -122.292327,
+    "address": "710 31st Ave, Seattle, WA 98144"
+  },
+  {
+    "lat": 47.587753,
+    "lng": -122.382919,
+    "address": "1703 41st Ave, Seattle, WA 98116"
+  },
+  {
+    "lat": 47.704144,
+    "lng": -122.354385,
+    "address": "319 N 104th St, Seattle, WA 98133"
+  },
+  {
+    "lat": 47.612147,
+    "lng": -122.329713,
+    "address": "1400 Hubbell Place Unit # 1003, Seattle, WA 98101"
+  },
+  {
+    "lat": 47.54118,
+    "lng": -122.289788,
+    "address": "6803 Holly Park Dr Unit # A-1, Seattle, WA 98118"
+  },
+  {
+    "lat": 47.570727,
+    "lng": -122.387167,
+    "address": "3717 California Ave Unit # 202, Seattle, WA 98116"
+  },
+  {
+    "lat": 47.551712,
+    "lng": -122.276985,
+    "address": "4521 S Findlay St, Seattle, WA 98118"
+  },
+  {
+    "lat": 47.656112,
+    "lng": -122.341947,
+    "address": "1310 N Lucas Place Unit # 403, Seattle, WA 98103"
+  },
+  {
+    "lat": 47.523354,
+    "lng": -122.374367,
+    "address": "8843 32nd Ave, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.545525,
+    "lng": -122.363739,
+    "address": "A, 6355 24th Ave, Seattle, WA 98106"
+  },
+  {
+    "lat": 47.504382,
+    "lng": -122.230308,
+    "address": "10891 Dixon DR, Seattle, WA 98178"
+  },
+  {
+    "lat": 47.53329,
+    "lng": -122.274957,
+    "address": "7712 46th Ave, Seattle, WA 98118"
+  },
+  {
+    "lat": 47.660491,
+    "lng": -122.317752,
+    "address": "4343 Roosevelt Way Unit # 407, Seattle, WA 98105"
+  },
+  {
+    "lat": 47.678047,
+    "lng": -122.363213,
+    "address": "6706 6th Ave, Seattle, WA 98117"
+  },
+  {
+    "lat": 47.639481,
+    "lng": -122.32798,
+    "address": "75 E LYNN St Unit # A, Seattle, WA 98102"
+  },
+  {
+    "lat": 47.699602,
+    "lng": -122.364844,
+    "address": "9701 7th Ave, Seattle, WA 98117"
+  },
+  {
+    "lat": 47.73001,
+    "lng": -122.299537,
+    "address": "13815 27th Ave, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.565289,
+    "lng": -122.368828,
+    "address": "2815 SW Nevada St Unit # A, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.533371,
+    "lng": -122.345543,
+    "address": "7702 8th Ave, Seattle, WA 98106"
+  },
+  {
+    "lat": 47.672422,
+    "lng": -122.380081,
+    "address": "1728 NW 60th St, Seattle, WA 98107"
+  },
+  {
+    "lat": 47.720139,
+    "lng": -122.307594,
+    "address": "12525 20th Ave, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.661893,
+    "lng": -122.354933,
+    "address": "309 N 46th St, Seattle, WA 98103"
+  },
+  {
+    "lat": 47.548729,
+    "lng": -122.371819,
+    "address": "3011 Cycle Ct Unit # 32, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.678886,
+    "lng": -122.36982,
+    "address": "6736 10th Ave, Seattle, WA 98117"
+  },
+  {
+    "lat": 47.548283,
+    "lng": -122.370979,
+    "address": "2980 SW Raymond St Unit # 101, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.670719,
+    "lng": -122.268066,
+    "address": "5810 56th Ave, Seattle, WA 98105"
+  },
+  {
+    "lat": 47.568786,
+    "lng": -122.386836,
+    "address": "3929 California Ave, Seattle, WA 98116"
+  },
+  {
+    "lat": 47.572178,
+    "lng": -122.381409,
+    "address": "3432 39th Ave, Seattle, WA 98116"
+  },
+  {
+    "lat": 47.56845,
+    "lng": -122.387068,
+    "address": "4310 SW Andover St, Seattle, WA 98116"
+  },
+  {
+    "lat": 47.555222,
+    "lng": -122.278496,
+    "address": "4401 S Dawson St, Seattle, WA 98118"
+  },
+  {
+    "lat": 47.638889,
+    "lng": -122.374231,
+    "address": "1300 W Boston St Unit # 24, Seattle, WA 98119"
+  },
+  {
+    "lat": 47.648308,
+    "lng": -122.408403,
+    "address": "3909 W Dravus St, Seattle, WA 98199"
+  },
+  {
+    "lat": 47.61844,
+    "lng": -122.305806,
+    "address": "2011 E Denny Wy Unit # C, Seattle, WA 98122"
+  },
+  {
+    "lat": 47.555,
+    "lng": -122.379333,
+    "address": "5217 37th Ave, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.695477,
+    "lng": -122.320015,
+    "address": "9116 8th Ave, Seattle, WA 98115"
+  },
+  {
+    "lat": 47.490547,
+    "lng": -122.331558,
+    "address": "12455 2nd Ave, Seattle, WA 98168"
+  },
+  {
+    "lat": 47.520057,
+    "lng": -122.365516,
+    "address": "9238 26th Ave, Seattle, WA 98106"
+  },
+  {
+    "lat": 47.546455,
+    "lng": -122.304268,
+    "address": "2302 S Graham St, Seattle, WA 98108"
+  },
+  {
+    "lat": 47.678501,
+    "lng": -122.397736,
+    "address": "3047 NW 69th St, Seattle, WA 98117"
+  },
+  {
+    "lat": 47.467236,
+    "lng": -122.36808,
+    "address": "2665 SW 151st Place, Seattle, WA 98166"
+  },
+  {
+    "lat": 47.723785,
+    "lng": -122.353737,
+    "address": "300 N 130th St Unit # 9101, Seattle, WA 98133"
+  },
+  {
+    "lat": 47.672386,
+    "lng": -122.388115,
+    "address": "2424 NW 60th St, Seattle, WA 98107"
+  },
+  {
+    "lat": 47.652501,
+    "lng": -122.396611,
+    "address": "3600 31st Ave, Seattle, WA 98199"
+  },
+  {
+    "lat": 47.716387,
+    "lng": -122.283079,
+    "address": "12000 Sand Point Wy, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.55953,
+    "lng": -122.383795,
+    "address": "4752 41st Ave Unit # 307, Seattle, WA 98116"
+  },
+  {
+    "lat": 47.720863,
+    "lng": -122.290565,
+    "address": "A, 12556 35th Ave, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.616413,
+    "lng": -122.352302,
+    "address": "2801 1st Ave Unit # 807, Seattle, WA 98121"
+  },
+  {
+    "lat": 47.678951,
+    "lng": -122.374725,
+    "address": "6736 Alonzo Ave, Seattle, WA 98117"
+  },
+  {
+    "lat": 47.512791,
+    "lng": -122.333049,
+    "address": "10033 Occidental Ave, Seattle, WA 98168"
+  },
+  {
+    "lat": 47.604483,
+    "lng": -122.303803,
+    "address": "309 22nd Ave, Seattle, WA 98122"
+  },
+  {
+    "lat": 47.716923,
+    "lng": -122.286858,
+    "address": "12046 38th Ave, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.613779,
+    "lng": -122.349069,
+    "address": "2440 Western Ave Unit # 512, Seattle, WA 98121"
+  },
+  {
+    "lat": 47.523097,
+    "lng": -122.348007,
+    "address": "8854 10th Ave, Seattle, WA 98106"
+  },
+  {
+    "lat": 47.515331,
+    "lng": -122.391479,
+    "address": "9810 Marine View Dr, Seattle, WA 98136"
+  },
+  {
+    "lat": 47.570484,
+    "lng": -122.388504,
+    "address": "3653 44th Ave, Seattle, WA 98116"
+  },
+  {
+    "lat": 47.64399,
+    "lng": -122.326973,
+    "address": "2626 Yale Ave, Seattle, WA 98102"
+  },
+  {
+    "lat": 47.582722,
+    "lng": -122.377327,
+    "address": "2306 37th Ave, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.678387,
+    "lng": -122.284035,
+    "address": "6825 42nd Ave, Seattle, WA 98115"
+  },
+  {
+    "lat": 47.526288,
+    "lng": -122.353004,
+    "address": "8610 14th Ave, Seattle, WA 98106"
+  },
+  {
+    "lat": 47.516102,
+    "lng": -122.369757,
+    "address": "9643 28th Ave Unit # B, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.61844,
+    "lng": -122.305806,
+    "address": "2011 E Denny Wy Unit # D, Seattle, WA 98122"
+  },
+  {
+    "lat": 47.534543,
+    "lng": -122.2779339,
+    "address": "7523 44 Ave, Seattle, WA 98188"
+  },
+  {
+    "lat": 47.691418,
+    "lng": -122.288223,
+    "address": "3555 NE 87th, Seattle, WA 98115"
+  },
+  {
+    "lat": 47.703428,
+    "lng": -122.357416,
+    "address": "10222 1st Ave Unit # a, Seattle, WA 98177"
+  },
+  {
+    "lat": 47.547211,
+    "lng": -122.280579,
+    "address": "4201 S Spencer St, Seattle, WA 98118"
+  },
+  {
+    "lat": 47.611778,
+    "lng": -122.323864,
+    "address": "1321 Seneca Unit # 1003, Seattle, WA 98101"
+  },
+  {
+    "lat": 47.596008,
+    "lng": -122.28904,
+    "address": "716 Lake Washington Blvd, Seattle, WA 98144"
+  },
+  {
+    "lat": 47.678692,
+    "lng": -122.398621,
+    "address": "2818 NW 69th St, Seattle, WA 98117"
+  },
+  {
+    "lat": 47.53368,
+    "lng": -122.366043,
+    "address": "2605 SW Holden St, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.523643,
+    "lng": -122.383705,
+    "address": "4012 SW Concord St, Seattle, WA 98136"
+  },
+  {
+    "lat": 47.500238,
+    "lng": -122.313662,
+    "address": "11437 Glendale Wy, Seattle, WA 98168"
+  },
+  {
+    "lat": 47.635551,
+    "lng": -122.34848,
+    "address": "1821 Bigelow Ave, Seattle, WA 98109"
+  },
+  {
+    "lat": 47.701023,
+    "lng": -122.351662,
+    "address": "9747 Evanston Ave, Seattle, WA 98103"
+  },
+  {
+    "lat": 47.670037,
+    "lng": -122.390986,
+    "address": "2619 NW 57th St Unit # B, Seattle, WA 98107"
+  },
+  {
+    "lat": 47.666446,
+    "lng": -122.36653,
+    "address": "814 NW 52nd St, Seattle, WA 98107"
+  },
+  {
+    "lat": 47.705536,
+    "lng": -122.321228,
+    "address": "10501 8th Ave Unit # 125, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.520359,
+    "lng": -122.261221,
+    "address": "9500 Rainier Ave Unit # 501, Seattle, WA 98118"
+  },
+  {
+    "lat": 47.6367,
+    "lng": -122.339622,
+    "address": "2000 Westlake Ave Unit # E4, Seattle, WA 98109"
+  },
+  {
+    "lat": 47.592079,
+    "lng": -122.298274,
+    "address": "2612 S Judkins St, Seattle, WA 98144"
+  },
+  {
+    "lat": 47.732559,
+    "lng": -122.308601,
+    "address": "14322 19th Ave, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.701339,
+    "lng": -122.285812,
+    "address": "3914 NE 100th St, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.553665,
+    "lng": -122.288643,
+    "address": "3516 S Brandon St, Seattle, WA 98118"
+  },
+  {
+    "lat": 47.719444,
+    "lng": -122.319611,
+    "address": "845 NE 125th St Unit # 302, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.579293,
+    "lng": -122.314708,
+    "address": "C, 2707 14th Ave, Seattle, WA 98144"
+  },
+  {
+    "lat": 47.672534,
+    "lng": -122.385769,
+    "address": "2222 NW 60th St Unit # A, Seattle, WA 98107"
+  },
+  {
+    "lat": 47.528843,
+    "lng": -122.367584,
+    "address": "8141 27th Ave, Seattle, WA 98146"
+  },
+  {
+    "lat": 47.498152,
+    "lng": -122.337683,
+    "address": "& 318, 308 SW 117th Place, Seattle, WA 98146"
+  },
+  {
+    "lat": 47.669674,
+    "lng": -122.381653,
+    "address": "1760 NW 56th St Unit # 511, Seattle, WA 98107"
+  },
+  {
+    "lat": 47.669674,
+    "lng": -122.381653,
+    "address": "1760 NW 56th St Unit # 314, Seattle, WA 98107"
+  },
+  {
+    "lat": 47.623554,
+    "lng": -122.31002,
+    "address": "526 17th Ave Unit # 13, Seattle, WA 98112"
+  },
+  {
+    "lat": 47.559872,
+    "lng": -122.288231,
+    "address": "4729 36th Ave, Seattle, WA 98118"
+  },
+  {
+    "lat": 47.669674,
+    "lng": -122.381653,
+    "address": "1760 NW 56th St Unit # 414, Seattle, WA 98107"
+  },
+  {
+    "lat": 47.669674,
+    "lng": -122.381653,
+    "address": "1760 NW 56th St Unit # 509, Seattle, WA 98107"
+  },
+  {
+    "lat": 47.636469,
+    "lng": -122.367757,
+    "address": "1919 8th Ave, Seattle, WA 98119"
+  },
+  {
+    "lat": 47.675345,
+    "lng": -122.382558,
+    "address": "A, 2010 NW 64th St, Seattle, WA 98107"
+  },
+  {
+    "lat": 47.67551,
+    "lng": -122.382683,
+    "address": "A, 2012 NW 64th St, Seattle, WA 98107"
+  },
+  {
+    "lat": 47.580296,
+    "lng": -122.398262,
+    "address": "5121 SW Olga St, Seattle, WA 98116"
+  },
+  {
+    "lat": 47.526375,
+    "lng": -122.272743,
+    "address": "4716 S Cloverdale, Seattle, WA 98118"
+  },
+  {
+    "lat": 47.71223,
+    "lng": -122.327747,
+    "address": "11300 1 Ave Unit # 317, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.565082,
+    "lng": -122.366796,
+    "address": "2629 SW Nevada St Unit # 107, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.642966,
+    "lng": -122.410532,
+    "address": "2526 42nd Ave, Seattle, WA 98199"
+  },
+  {
+    "lat": 47.729577,
+    "lng": -122.312772,
+    "address": "13743 15th Ave Unit # D3, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.529126,
+    "lng": -122.358139,
+    "address": "8129 18th Ave, Seattle, WA 98106"
+  },
+  {
+    "lat": 47.711643,
+    "lng": -122.298943,
+    "address": "2711 NE 115th St, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.602046,
+    "lng": -122.293497,
+    "address": "110 30th Ave, Seattle, WA 98122"
+  },
+  {
+    "lat": 47.62743,
+    "lng": -122.360611,
+    "address": "924 3rd Ave, Seattle, WA 98119"
+  },
+  {
+    "lat": 47.726429,
+    "lng": -122.31205,
+    "address": "1509 NE 135th St, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.617167,
+    "lng": -122.352896,
+    "address": "2929 1st Ave Unit # 809, Seattle, WA 98121"
+  },
+  {
+    "lat": 47.601357,
+    "lng": -122.327263,
+    "address": "108 5th Ave Unit # 715, Seattle, WA 98104"
+  },
+  {
+    "lat": 47.678778,
+    "lng": -122.355339,
+    "address": "6801 Greenwood Ave Unit # 207, Seattle, WA 98103"
+  },
+  {
+    "lat": 47.568596,
+    "lng": -122.388901,
+    "address": "4416 SW Andover St, Seattle, WA 98116"
+  },
+  {
+    "lat": 47.555007,
+    "lng": -122.291724,
+    "address": "5203 32nd Ave S, Seattle, WA 98118"
+  },
+  {
+    "lat": 47.516102,
+    "lng": -122.369757,
+    "address": "9643 28th Ave Unit # B, Seattle, WA 98126"
+  },
+  {
+    "lat": 47.499131,
+    "lng": -122.220618,
+    "address": "11604 Rainier Ave Unit # 202, Seattle, WA 98178"
+  },
+  {
+    "lat": 47.67957,
+    "lng": -122.365509,
+    "address": "7000 Cleopatra Place Unit # 205, Seattle, WA 98117"
+  },
+  {
+    "lat": 47.623806,
+    "lng": -122.302437,
+    "address": "523 23rd Ave, Seattle, WA 98112"
+  },
+  {
+    "lat": 47.617252,
+    "lng": -122.349113,
+    "address": "2720 3rd Ave Unit # 909, Seattle, WA 98121"
+  },
+  {
+    "lat": 47.67019,
+    "lng": -122.377422,
+    "address": "1545 NW 57th St Unit # 206, Seattle, WA 98107"
+  },
+  {
+    "lat": 47.535278,
+    "lng": -122.39003,
+    "address": "7518 45th Ave, Seattle, WA 98136"
+  },
+  {
+    "lat": 47.706627,
+    "lng": -122.333061,
+    "address": "2117 N 107th St Unit # 402, Seattle, WA 98133"
+  },
+  {
+    "lat": 47.7302,
+    "lng": -122.284078,
+    "address": "14014, 14012 41st Ave, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.664021,
+    "lng": -122.396919,
+    "address": "3100 W Commodore Wy Unit # 202, Seattle, WA 98199"
+  },
+  {
+    "lat": 47.568786,
+    "lng": -122.386836,
+    "address": "3931 California Ave, Seattle, WA 98116"
+  },
+  {
+    "lat": 47.630894,
+    "lng": -122.302322,
+    "address": "1219 23rd Ave, Seattle, WA 98112"
+  },
+  {
+    "lat": 47.540958,
+    "lng": -122.387239,
+    "address": "6970 California Ave Unit # B109, Seattle, WA 98136"
+  },
+  {
+    "lat": 47.50296,
+    "lng": -122.262054,
+    "address": "5625 S Fountain St, Seattle, WA 98178"
+  },
+  {
+    "lat": 47.570576,
+    "lng": -122.411591,
+    "address": "3717 Beach Dr Unit # 316, Seattle, WA 98116"
+  },
+  {
+    "lat": 47.541033,
+    "lng": -122.387239,
+    "address": "6960 California Ave Unit # A406, Seattle, WA 98136"
+  },
+  {
+    "lat": 47.605899,
+    "lng": -122.331209,
+    "address": "909 5th Ave Unit # 205, Seattle, WA 98104"
+  },
+  {
+    "lat": 47.707359,
+    "lng": -122.347031,
+    "address": "10728 Linden Ave, Seattle, WA 98133"
+  },
+  {
+    "lat": 47.486931,
+    "lng": -122.285561,
+    "address": "3803 S 130th St, Seattle, WA 98168"
+  },
+  {
+    "lat": 47.670625,
+    "lng": -122.390478,
+    "address": "2605 NW 58th St, Seattle, WA 98107"
+  },
+  {
+    "lat": 47.522691,
+    "lng": -122.357757,
+    "address": "9019 18th Ave Unit # A, Seattle, WA 98106"
+  },
+  {
+    "lat": 47.702141,
+    "lng": -122.306121,
+    "address": "2008 NE 102nd St, Seattle, WA 98125"
+  },
+  {
+    "lat": 47.637611,
+    "lng": -122.343369,
+    "address": "700 Crockett St Unit # 403, Seattle, WA 98109"
+  },
+  {
+    "lat": 47.511215,
+    "lng": -122.343177,
+    "address": "10224 7th Ave, Seattle, WA 98146"
+  },
+  {
+    "lat": 47.67957,
+    "lng": -122.365509,
+    "address": "7000 Cleopatra Place Unit # 203, Seattle, WA 98117"
+  },
+  {
+    "lat": 47.490082,
+    "lng": -122.261009,
+    "address": "12600 57th Ave Unit # C202, Seattle, WA 98178"
+  },
+  {
+    "lat": 47.693581,
+    "lng": -122.368256,
+    "address": "8824 9th Ave, Seattle, WA 98117"
+  },
+  {
+    "lat": 47.614204,
+    "lng": -122.334213,
+    "address": "1816 8th Ave Unit # 3409, Seattle, WA 98101"
+  },
+  {
+    "lat": 47.598927,
+    "lng": -122.302238,
+    "address": "425 23rd Ave Unit # A107, Seattle, WA 98144"
+  },
+  {
+    "lat": 47.574131,
+    "lng": -122.293716,
+    "address": "3021 S Byron St, Seattle, WA 98144"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "name": "flyhomes",
+  "version": "0.1.0",
+  "private": true,
+  "jest": {
+    "collectCoverageFrom": [
+      "!/src/locales/*.{js}",
+      "src/**/*.{js}",
+      "!<rootDir>/node_modules/"
+    ]
+  },
+  "dependencies": {
+    "connected-react-router": "^6.5.2",
+    "google-map-react": "^1.1.5",
+    "google-maps-react": "^2.0.2",
+    "history": "^4.10.1",
+    "i18next": "^13.1.4",
+    "i18next-browser-languagedetector": "^2.2.4",
+    "immutable": "^4.0.0-rc.12",
+    "react": "^16.10.1",
+    "react-controllables": "^0.6.0",
+    "react-dom": "^16.10.1",
+    "react-i18next": "^9.0.4",
+    "react-redux": "^6.0.0",
+    "react-router": "^5.1.1",
+    "react-scripts": "3.0.1",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "reselect": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --coverage",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "clone": "^2.1.2",
+    "deep-freeze": "0.0.1",
+    "eslint-config-airbnb": "^17.1.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3",
+    "prettier": "^1.18.2"
+  }
+}
